@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BloxWorld</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_discover">Discover</string>
+    <string name="nav_avatar">Avatar</string>
+    <string name="nav_build">Studio</string>
+    <string name="nav_chat">Chat</string>
+    <string name="robux_label">Robux</string>
+    <string name="search_placeholder">Search experiences, players, gear...</string>
+    <string name="play_button">Play</string>
+    <string name="edit_avatar">Customize</string>
+    <string name="create_experience">New Creation</string>
+</resources>

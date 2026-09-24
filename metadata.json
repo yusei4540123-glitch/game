@@ -1,0 +1,6 @@
+{
+  "name": "BloxWorld",
+  "description": "Roblox-inspired universe of games, custom avatars, obbies, world building, and social experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
